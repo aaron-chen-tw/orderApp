@@ -8,9 +8,9 @@ import Axios from 'Axios'
 // import Axios from 'Axios'
 
 // // 1、导入组件
-import Goods from "components/Goods/Goods"
-import Ratings from "components/Ratings/Ratings"
-import Seller from "components/Seller/Seller"
+import Goods from "./components/Goods/Goods"
+import Ratings from "./components/Ratings/Ratings"
+import Seller from "./components/Seller/Seller"
 // import Goods from "components/Goods/Goods"
 // import Ratings from "components/Ratings/Ratings"
 // import Seller from "components/Seller/Seller"
